@@ -29,8 +29,8 @@ public class ArcheryTower : Tower
         
     }
 
-    public override void OnPointerClick(PointerEventData eventData)
+    /*public override void OnPointerClick(PointerEventData eventData)
     {
         base.OnPointerClick(eventData);
-    }
+    }*/
 }
